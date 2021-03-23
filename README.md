@@ -1,2 +1,6 @@
 # duke-operatingsystems
-Code from Duke ECE 353: Introduction to Operating Systems taken in C/C++ in Spring 2021.
+Projects completed in Duke ECE 353: Introduction to Operating Systems taken in Spring 2021. The course primarily used C as well as some C++, relying on pre-existing systems libraries implemented primarily in assembly.
+
+"This course gives an introduction to systems concepts and operating systems. Traditionally the course emphasizes classical operating systems topics: concurrency, facilities for storage, communication, and protection, kernel services and structure, architecture/OS interaction, distributed systems, and practical application of operating system concepts in real operating systems. We also explore the nature of "systems" as an evolving discipline encompassing all aspects of bridging the gap between applications and hardware.
+
+More broadly, an operating system is software that controls some programmable platform for sharing resources and data. All operating systems must deal with core issues of protection, resource management, program environment and execution, coordination, and reliable state storage and recovery. Various programming systems ranging from cloud services to Web frameworks to programmable networks to browsers meet our definition of a "programmable platform". The last part of the course covers principles and topics that are important for understanding modern networked software systems."
